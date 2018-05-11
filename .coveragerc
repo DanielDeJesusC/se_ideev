@@ -1,0 +1,5 @@
+[run]
+include = se_ideev/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
